@@ -1,0 +1,22 @@
+
+{
+  "cities": [
+    {
+      "city": "Delhi",
+      "country": "India",
+      "enabled": true
+    },
+    {
+      "city": "Mumbai",
+      "country": "India",
+      "enabled": true
+    }
+  ],
+  "historical_period": {
+    "start_date": "2025-11-01",
+    "end_date": "2026-10-31"
+  },
+  "pollutants": [
+    "pm25"
+  ]
+}

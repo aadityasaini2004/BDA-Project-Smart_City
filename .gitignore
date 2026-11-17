@@ -27,3 +27,10 @@ data/processed/*
 # OS
 .DS_Store
 Thumbs.db
+# Large generated datasets and packages
+data/share/
+data/raw/
+data/processed/
+
+# Generated archives
+*.zip
